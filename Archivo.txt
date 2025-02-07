@@ -1,3 +1,5 @@
 Este es un archivo de ejemplo para el curso de GitHub
 
 Leila - 2025
+
+Esta es una segunda línea en el Branch nueva-funcionalidad
